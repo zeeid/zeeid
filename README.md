@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeeid
-- 👀 I’m interested in PHP / Web Developer
-- 🌱 I’m currently learning Android Studio and CI4
+- 👀 I’m interested in PHP / Web Developer [ Codeigniter And Laravel ]
+- 🌱 I’m currently learning Android Studio & ReactJS
 - 💞️ I’m looking to collaborate on Youtube
 - 📫 How to reach me : IG : @zeeidev
 
