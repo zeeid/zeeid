@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zeeid
+- 👋 Hi, I’m @zeeid [This is my second repo, the first account can't be opened due to email error]
 - 👀 I’m interested in PHP / Web Developer [ Codeigniter And Laravel ]
 - 🌱 I’m currently learning Android Studio & ReactJS
 - 💞️ I’m looking to collaborate on Youtube
