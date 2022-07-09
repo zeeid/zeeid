@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Android Studio & ReactJS
 - 💞️ I’m looking to collaborate on Youtube
 - 📫 How to reach me : IG : @zeeidev
+- 🌐 https://zeeid.net
 
 <!---
 zeeid/zeeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
