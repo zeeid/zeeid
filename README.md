@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Youtube
 - 📫 How to reach me : IG : @zeeidev
 - 🌐 https://zeeid.net
+- USE my CDN : https://cdn.jsdelivr.net/gh/zeeid/nama_repository/lokasi_file
 
 <!---
 zeeid/zeeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
