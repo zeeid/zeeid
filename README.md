@@ -79,7 +79,7 @@
       </div>
 
 </p>
-<br>
+
 ------
 
 Credit: [zeeid](https://github.com/zeeid)
